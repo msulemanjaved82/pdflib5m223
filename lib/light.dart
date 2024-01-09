@@ -33,7 +33,7 @@ class _LightHouseDetailState extends State<LightHouseDetail> {
                 child: SizedBox(
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(15),
-                      child: Image.asset('assets/images/lighthouse.PNG')),
+                      child: Image.asset('assets/mocque.jpg')),
                 ),
               ),
               Padding(

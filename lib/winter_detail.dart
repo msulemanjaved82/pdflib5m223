@@ -33,7 +33,7 @@ class _WinterDetailState extends State<WinterDetail> {
                 child: SizedBox(
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(15),
-                      child: Image.asset('assets/images/winter.PNG')),
+                      child: Image.asset('assets/winter.jpg')),
                 ),
               ),
               Padding(
@@ -46,7 +46,7 @@ class _WinterDetailState extends State<WinterDetail> {
                 child: SizedBox(
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(15),
-                      child: Image.asset('assets/images/covid.PNG')),
+                      child: Image.asset('assets/covid.jpg')),
                 ),
               ),
               Padding(

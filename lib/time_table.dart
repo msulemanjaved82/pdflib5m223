@@ -29,7 +29,7 @@ class _TimeTableState extends State<TimeTable> {
         body: Center(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
-              child: Image.asset('assets/images/timetable.PNG'),
+              child: Image.asset('assets/timetable.jpg'),
             ),
         ),
         );

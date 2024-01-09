@@ -1,9 +1,11 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:lottie/lottie.dart';
 
-import 'package:pdf_reader/home_screen.dart';
+
+
+
+import 'home_screen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -55,18 +57,8 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        body: Center(
-            child: SizedBox(
-                width: 180,
-                height: 200,
-                child: Lottie.asset('assets/images/animation.json')),
-            // child: SizedBox(
-            //     width: 180,
-            //     height: 180,
-            //     child: Lottie.network(
-            //         'https://lottie.host/58e5df20-3602-46b6-871b-f38c915f149d/WSW9eOimyb.json')
-            //         )
-             ),
-            );
-      }
+        body:
+        Column(),
+        );
+  }
 }

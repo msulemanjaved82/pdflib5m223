@@ -34,7 +34,7 @@ class _LionDetailPageState extends State<LionDetailPage> {
                 child: SizedBox(
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(15),
-                      child: Image.asset('assets/images/lioncircle.PNG')),
+                      child: Image.asset('assets/lioncircle.jpg')),
                 ),
               ),
               Padding(
@@ -47,7 +47,7 @@ class _LionDetailPageState extends State<LionDetailPage> {
                 child: SizedBox(
                   child: ClipRRect(
                       borderRadius: BorderRadius.circular(15),
-                      child: Image.asset('assets/images/simba.PNG')),
+                      child: Image.asset('assets/simba.PNG')),
                 ),
               ),
               Padding(
