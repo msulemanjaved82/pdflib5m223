@@ -48,7 +48,7 @@ class _HomeScreenState extends State<HomeScreen> {
                      color: Colors.white,
                    ),
                     child: Container(
-                      width: 130,
+                      width: 150,
                       height: 150,
                       decoration: BoxDecoration(
                         shape: BoxShape.rectangle,
